@@ -1,0 +1,86 @@
+.main-home {
+    background-image: url('platter-2009590_1920.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+#navabar-color {
+    color: black;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+.foodmunch{
+    height: 80px;
+    width: 90px;
+}
+.banner-headline {
+    color: white;
+    font-weight: 500;
+    font-size: 50px;
+    font-family: "Bree serif";
+
+}
+.banner-des {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+.banner-bottons {
+    height: 45px;
+    width: 145px;
+    color: black;
+    background-color: #d1cb0d;
+    border-radius: 6px;
+    border-width: 0px;
+    margin-right: 5px;
+}
+.banner-second-bottons {
+    height: 45px;
+    width: 145px;
+    color: white;
+    background-color:transparent;
+    border-radius: 6px;
+    border-width: 3px;
+    border-color: #d1cb0d;
+    border-style: solid;
+    margin-left: 5px;
+}
+.wcu-card-image {
+    height: 80px;
+    width: 80px;
+}
+.wcu-card{
+    background-color:whitesmoke;
+    text-align: center;
+    border-radius: 8px;
+}
+.wcu-card-headline {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+.w-card-decus{
+    color: black;
+    font-family: "Roboto";
+    font-size: 19px;
+    font-weight: 200;
+}
+.span-percebtage {
+    color: black;
+    font-weight: bold;
+}
+.menu-background {
+    background-color: white;
+}
+.exp-image {
+    border-radius: 16px;
+}
+.exp-headline {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 700;
+}
+.exp-card {
+ background-color: white;
+ border-radius: 10px;
+}
